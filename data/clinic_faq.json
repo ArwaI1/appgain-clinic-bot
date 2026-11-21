@@ -1,0 +1,47 @@
+[
+  {
+    "id": "hours_location",
+    "category": "Working Hours & Location",
+    "content": "Location: 42 Tahrir Street, Dokki, Giza. Working hours: Saturday to Thursday from 10:00 AM to 10:00 PM; closed on Fridays. ??????: 42 ???? ???????? ?????? ??????. ?????? ????? ?? ????? ??? ?????? ?? 10 ?????? ??? 10 ?????? ??????? ?????."
+  },
+  {
+    "id": "specialties_doctors",
+    "category": "Specialties & Doctors Schedules",
+    "content": "Available specialties and doctors: 1) Internal Medicine & Cardiology (??????? ??????): Dr. Tariq Mansour (Sun & Tue, 4:00 PM - 9:00 PM). 2) Dermatology & Laser (??????? ???????): Dr. Nadia El-Sayed (Sat, Mon & Wed, 12:00 PM - 6:00 PM). 3) Pediatrics (?? ???????): Dr. Karim Adel (Sat-Thu, 11:00 AM - 5:00 PM). 4) Dentistry (?? ???????): Dr. Salma Hamed (Sun, Tue & Thu, 2:00 PM - 8:00 PM). 5) Orthopedics (??????): Dr. Hany Samir (Mon & Wed, 5:00 PM - 9:30 PM). 6) ENT (????? ?????? ????????): Dr. Mona Kamel (Sat & Thu, 1:00 PM - 6:00 PM)."
+  },
+  {
+    "id": "consultation_fees_followup",
+    "category": "Consultation Fees & Follow-Up",
+    "content": "Standard consultation fee (??? ?????) is 400 EGP. Follow-up visit (?????????) within 14 days is free (?????? ???? 14 ?????). Dental checkup and basic cleaning start at 600 EGP."
+  },
+  {
+    "id": "payment_methods",
+    "category": "Payment Methods",
+    "content": "Accepted payment methods: Cash (???), Visa/Mastercard (???? / ????? ????), InstaPay (????????), and Vodafone Cash (??????? ???)."
+  },
+  {
+    "id": "insurance_coverage",
+    "category": "Medical Insurance",
+    "content": "Accepted medical insurance providers: AXA, MetLife, Bupa, Allianz, and GlobeMed. Bring a physical or digital insurance card and national ID."
+  },
+  {
+    "id": "appointments_walkins_cancellation",
+    "category": "Appointments, Walk-Ins & Cancellation",
+    "content": "Pre-booked appointments are recommended and have priority, while walk-ins (???? ???? ????) are accepted based on availability. Free cancellation or rescheduling is available up to 3 hours before the appointment."
+  },
+  {
+    "id": "visit_preparation_records",
+    "category": "Visit Preparation & Medical Records",
+    "content": "Bring prior medical reports, lab tests, scans, and current medications or allergies. Fasting blood tests generally require 8-12 hours of fasting (water allowed) unless instructed otherwise."
+  },
+  {
+    "id": "facilities_accessibility_parking",
+    "category": "Facilities, Accessibility & Parking",
+    "content": "Elevator access and wheelchair-friendly entry are available, with limited street/nearby parking."
+  },
+  {
+    "id": "medical_safety_emergencies",
+    "category": "Medical Safety & Emergencies",
+    "content": "General clinic FAQ information only; no medical diagnosis or medication recommendations. For urgent or severe symptoms (such as chest pain, severe bleeding, or breathing difficulty), seek emergency care immediately."
+  }
+]
